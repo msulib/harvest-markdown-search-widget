@@ -1,4 +1,4 @@
-# harvest-markdown-search-widget
+# Javascript Websites Search Widget
 
 This search widget takes takes a list of website urls and makes the content on them searchable through an embeddable javascript widget
 
